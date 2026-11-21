@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.streamlit/secrets.toml
+*.log
+.DS_Store
+# Large live-retrieval indexes: decide on secure asset hosting before deployment
+data/indexes/**
+!data/indexes/.gitkeep
+!data/indexes/section_aware/
+!data/indexes/section_aware/.gitkeep
