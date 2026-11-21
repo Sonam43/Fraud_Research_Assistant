@@ -1,4 +1,4 @@
-# Fraud Research Assistant — Step 1
+# Fraud Research Assistant
 
 This is the working **application foundation**, not the completed research assistant. It contains six pages and an optional OpenRouter API connectivity test. It does **not** answer research questions until verified BM25, FAISS and metadata assets are connected.
 
