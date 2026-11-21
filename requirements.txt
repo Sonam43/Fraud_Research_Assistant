@@ -1,4 +1,18 @@
+
+# Streamlit Web Application
 streamlit>=1.44,<2
+
+# OpenRouter API Integration
 openai>=1.65,<3
+
+# Data Processing and Visualization
 pandas>=2.1,<3
 plotly>=5.24,<7
+
+# Hybrid Retrieval: FAISS + BM25
+faiss-cpu>=1.8
+rank-bm25>=0.2.2
+
+# Semantic Embeddings
+sentence-transformers>=3.0
+
